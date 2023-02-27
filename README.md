@@ -2,9 +2,11 @@ Daily Learning
 
 # Creating a Website to Find Restaurants Using Google Maps that Query Google's API
 
-Project developed at Bootcamp MRV Front End SPA Developer with expert guidance [Patrick Narciso](https://github.com/patrick-narciso "Patrick Narciso").
-Learning to build a web search engine for restaurants, similar to the service Google offers.
+Project developed at Bootcamp MRV Front End SPA Developer with expert guidance [Patrick Narciso](https://github.com/patrick-narciso "Patrick Narciso").</br>
+Learning to build a web search engine for restaurants, similar to the service Google offers.</br>
 Technologies used: React.JS and Google API.
+
+![project](https://user-images.githubusercontent.com/95108889/221578662-d0473c4e-8ac0-4a71-8440-df3bb041e3bf.jpg)
 
 [LICENSE](/LICENSE)
 
